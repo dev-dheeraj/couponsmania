@@ -18,11 +18,6 @@ function Layout({ children }) {
           <main>{children}</main>
           </Grid>
       </Grid>
-
-    
-      
-     
-
       <Footer />
     </Grid>
   );
